@@ -1,0 +1,4 @@
+#Sun Nov 12 23:02:42 CST 2023
+base.0=D\:\\Respaldo Juan 050921\\Documentos\\FIM\\09 NOVENO SEMESTRE\\Inteligencia Artificial\\SmartFood\\smartfood\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
