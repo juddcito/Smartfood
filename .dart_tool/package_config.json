@@ -92,6 +92,12 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "material_symbols_icons",
+      "rootUri": "file:///C:/Users/juand/AppData/Local/Pub/Cache/hosted/pub.dev/material_symbols_icons-4.2709.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "meta",
       "rootUri": "file:///C:/Users/juand/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.9.1",
       "packageUri": "lib/",
@@ -164,7 +170,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-11-13T04:53:35.084036Z",
+  "generated": "2023-11-13T05:30:24.505229Z",
   "generator": "pub",
   "generatorVersion": "3.1.2"
 }
